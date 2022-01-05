@@ -30,3 +30,7 @@ h1 {
   background-image: linear-gradient(orange, tomato);
   border-radius: 5px;
 }
+.dearm {
+  background-image: url(images/dream-bg.png);
+  background-position: right;
+}
